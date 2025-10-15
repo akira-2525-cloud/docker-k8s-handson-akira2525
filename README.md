@@ -1,7 +1,3 @@
-﻿ # docker-k8s-handson-akira2525
-
-
-
 # Docker → Compose → Kubernetes ハンズオン
 
 ローカルで **Docker / Docker Compose / Kubernetes(kind + kubectl)** を段階的に体験する教材。
