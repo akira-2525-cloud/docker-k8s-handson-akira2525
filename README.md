@@ -1,6 +1,6 @@
 ﻿ # docker-k8s-handson-akira2525
 
----
+
 
 # Docker → Compose → Kubernetes ハンズオン
 
@@ -307,7 +307,3 @@ git push
 
 
 
----
-
-このREADMEをGitHubの編集欄に**丸ごと貼るだけで完成**。
-行単位で再現できる、最終完全統合版。
