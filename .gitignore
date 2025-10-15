@@ -1,0 +1,3 @@
+﻿node_modules/    # npm installで自動生成される依存ライブラリ
+.env             # 環境変数や秘密情報を入れるファイル（公開NG）
+.DS_Store        # macOSが勝手に作る隠しファイル（不要）
